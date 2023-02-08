@@ -1,0 +1,55 @@
+{
+    "Vendas": [
+        {
+            "nome": "rota teste"
+        },
+        {
+            "nome": "banana"
+        }
+    ],
+
+    "Compras": [
+        {
+            "nome": "rota teste"
+        },
+        {
+            "nome": "rota teste"
+        },
+        {
+            "nome": "rota teste"
+        },
+        {
+            "nome": "rota teste"
+        },
+        {
+            "nome": "banana"
+        }
+    ],
+    "Financeiro": [
+        {
+            "nome": "rota teste"
+        },
+        {
+            "nome": "banana"
+        }
+    ],
+
+    "CRM": [
+        {
+            "nome": "rota teste"
+        },
+        {
+            "nome": "rota teste"
+        },
+        {
+            "nome": "rota teste"
+        },
+        {
+            "nome": "rota teste"
+        },
+        {
+            "nome": "banana"
+        }
+    ]  
+}
+    
